@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../angular"
+		},
+		{
+			"path": "../../../rxjs"
+		},
+		{
+			"path": "../../../pract"
+		},
+		{
+			"path": "../../amazon-clone"
+		}
+	],
+	"settings": {}
+}
